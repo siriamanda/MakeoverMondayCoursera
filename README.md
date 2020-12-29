@@ -14,7 +14,7 @@ https://public.tableau.com/profile/siriamanda#!/vizhome/makeover-monday-coursera
 
 Content: 
 
-Dataset: [World Indicators.xlsx](https://github.com/siriamanda/MakeoverMondayCoursera/blob/master/World Indicators.xlsx) 
+Dataset: world_indicators.xlsx
 
 Jupyter Notebook: [data_cleaning_MakeOverMondayCoursera.ipynb](https://github.com/siriamanda/MakeoverMondayCoursera/blob/master/data_cleaning_MakeOverMondayCoursera.ipynb)
 
